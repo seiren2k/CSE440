@@ -1,2 +1,2 @@
 # CSE440
-This course is done under the supervision of Dr. Mohammad Mahmudul Alam [MLD] during FALL 2025
+This course is done under the supervision of Dr. Mohammad Mahmudul Alam [MLD].
